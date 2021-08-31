@@ -12,11 +12,6 @@ title: Home
 * [youtube](https://www.youtube.com/channel/UCA7GJRDo4x9JTn33sbuWx2Q)
 
 
-## 3d
+## 3D Printing
 * [thingiverse](https://www.thingiverse.com/dreimux)
 * [myminifactory](https://www.myminifactory.com/users/dreimux)
-
-
-### deprecated 3d
-* [thingiverse](https://www.thingiverse.com/dreidrei)
-* [myminifactory](https://www.myminifactory.com/users/drei)
